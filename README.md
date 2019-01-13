@@ -33,4 +33,4 @@
 
 [雅文小说](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E9%9B%85%E6%96%87%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt) 
 
-[风华居](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E9%9B%85%E6%96%87%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
+[风华居](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E9%A3%8E%E5%8D%8E%E5%B1%85-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
