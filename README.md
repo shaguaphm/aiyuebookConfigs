@@ -10,7 +10,9 @@
 你需要先安装爱阅书香，[下载地址](https://itunes.apple.com/cn/app/e7-88-b1-e9-98-85-e4-b9-a6-e9-a6-99/id1137819437?mt=8)
 
 然后用iOS设备打开此[书源配置的主页](https://shaguaphm.github.io/aiyuebookConfigs/).
-也可以直接复制 https://shaguaphm.github.io/aiyuebookConfigs/ 然后打开**爱阅书香书**, **书源源配置**, **导入剪切板的信息**。
+也可以直接复制 https://shaguaphm.github.io/aiyuebookConfigs/ 
+
+然后打开**爱阅书香**, 点右上角的**书源配置**, 再点右上角的**导入剪切板的信息**。
 就可以直接导入以下书源了。
 
 [默认书源](ifreetime://configs/https://gitee.com/ift123/test/raw/master/bscdef.json)
