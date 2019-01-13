@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# bookConfigs
+书源配置 感谢[jxd524]提供(https://github.com/jxd524/bookConfigs)
 
-You can use the [editor on GitHub](https://github.com/shaguaphm/aiyuebookConfigs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你需要先安装爱阅书香，[下载地址](https://itunes.apple.com/cn/app/e7-88-b1-e9-98-85-e4-b9-a6-e9-a6-99/id1137819437?mt=8)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+然后用iOS设备打开此[书源配置的主页](https://shaguaphm.github.io/aiyuebookConfigs/).
+也可以直接复制 https://shaguaphm.github.io/aiyuebookConfigs/ 然后打开**爱阅书香书**, **书源源配置**, **导入剪切板的信息**。
+就可以直接导入以下书源了。
 
-### Markdown
+[思路客](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E6%80%9D%E8%B7%AF%E5%AE%A2-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[2K小说阅读网](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/2K%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
-```markdown
-Syntax highlighted code block
+[55小说网](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/55%E5%B0%8F%E8%AF%B4%E7%BD%91.txt) 
 
-# Header 1
-## Header 2
-### Header 3
+[UC书盟](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/UC%E4%B9%A6%E7%9B%9F.txt)
 
-- Bulleted
-- List
+[丹书铁卷](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E4%B8%B9%E4%B9%A6%E9%93%81%E5%8D%B7-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
-1. Numbered
-2. List
+[云来阁小说](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E4%BA%91%E6%9D%A5%E9%98%81%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
-**Bold** and _Italic_ and `Code` text
+[墨壇文學](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E5%A2%A8%E5%A3%87%E6%96%87%E5%AD%B8-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
-[Link](url) and ![Image](src)
-```
+[520小说网](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/520%E5%B0%8F%E8%AF%B4%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[幻月书院](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E5%B9%BB%E6%9C%88%E4%B9%A6%E9%99%A2-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
-### Jekyll Themes
+[暖才文学网](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E6%9A%96%E6%89%8D%E6%96%87%E5%AD%A6%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaguaphm/aiyuebookConfigs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[梧州中文网](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E6%A2%A7%E5%B7%9E%E4%B8%AD%E6%96%87%E7%BD%91.txt)
 
-### Support or Contact
+[笔趣阁](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E7%AC%94%E8%B6%A3%E9%98%81-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[雅文小说](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E9%9B%85%E6%96%87%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt) 
+
+[风华居](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E9%9B%85%E6%96%87%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
