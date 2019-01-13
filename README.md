@@ -1,11 +1,11 @@
 # bookConfigs
-书源配置 
+目前书源属于个人兴趣制作，难免会有失效，错误，请及时加群反馈 upload by **wxdjs**
 
 感谢提供模板的[jxd524](https://github.com/jxd524/bookConfigs). 
 
-感谢书源提供者 wxdjs管理大大 和 superman管理 
+感谢书源提供者 **wxdjs管理大大** 和 superman管理
 
-爱阅书香之论道 839577211
+**爱阅书香之论道 839577211**
 
 你需要先安装爱阅书香，[下载地址](https://itunes.apple.com/cn/app/e7-88-b1-e9-98-85-e4-b9-a6-e9-a6-99/id1137819437?mt=8)
 
