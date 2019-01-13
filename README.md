@@ -1,4 +1,4 @@
-# bookConfigs
+# bookConfigs 更新于19.1.13
 目前书源属于个人兴趣制作，难免会有失效，错误，请及时加群反馈给 **wxdjs**管理员
 
 感谢提供模板的[jxd524](https://github.com/jxd524/bookConfigs). 
