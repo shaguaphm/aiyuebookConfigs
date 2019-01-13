@@ -15,7 +15,7 @@
 然后打开**爱阅书香**, 点右上角的**书源配置**, 再点右上角的**导入剪切板的信息**。
 就可以直接导入以下书源了。
 
-[更新于19.1.13](ifreetime://configs/)
+[更新时间](ifreetime://configs/2019.01.13)
 
 [默认书源](ifreetime://configs/https://gitee.com/ift123/test/raw/master/bscdef.json)
 
