@@ -7,6 +7,8 @@
 也可以直接复制 https://shaguaphm.github.io/aiyuebookConfigs/ 然后打开**爱阅书香书**, **书源源配置**, **导入剪切板的信息**。
 就可以直接导入以下书源了。
 
+[默认书源](ifreetime://configs/https://gitee.com/ift123/test/raw/master/bscdef.json)
+
 [思路客](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/%E6%80%9D%E8%B7%AF%E5%AE%A2-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
 [2K小说阅读网](ifreetime://configs/https://github.com/shaguaphm/aiyuebookConfigs/blob/master/2K%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
