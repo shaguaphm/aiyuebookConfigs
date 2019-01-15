@@ -1,4 +1,4 @@
-# bookConfigs 更新于19.1.13
+# bookConfigs 更新于19.1.15
 目前书源属于个人兴趣制作，难免会有失效，错误，请及时加群反馈给 **wxdjs**管理员
 
 感谢提供模板的[jxd524](https://github.com/jxd524/bookConfigs). 
@@ -15,7 +15,7 @@
 然后打开**爱阅书香**, 点右上角的**书源配置**, 再点右上角的**导入剪切板的信息**。
 就可以直接导入以下书源了。
 
-[更新时间](ifreetime://configs/2019.01.13)
+[更新时间](ifreetime://configs/2019.01.15)
 
 [默认书源](ifreetime://configs/https://gitee.com/ift123/test/raw/master/bscdef.json)
 
@@ -50,3 +50,5 @@
 [爱书网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E7%88%B1%E4%B9%A6%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E6%BA%90.txt)
 
 [四库小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E5%9B%9B%E5%BA%93%E5%B0%8F%E8%AF%B4%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E6%BA%90.txt)
+
+[追书网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E8%BF%BD%E4%B9%A6%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E6%BA%90.txt)
