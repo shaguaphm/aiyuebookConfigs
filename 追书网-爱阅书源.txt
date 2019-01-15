@@ -1,0 +1,187 @@
+{
+  "homeUrl" : "https:\/\/www.zhuishu5.com",
+  "enable" : true,
+  "authorId" : "",
+  "bookDetail" : {
+    "forGetMethod" : true,
+    "parser" : {
+      "_1" : {
+
+      },
+      "wordCount" : [
+        "\/\/div[@class='col-md-10']\/\/p\/span[contains(text(),'字数：')]\/text()[1]",
+        "substring-after(.,'：')"
+      ],
+      "statusText" : "\/\/div[@class='col-md-10']\/p\/span[2]\/text()",
+      "coverUrl" : "\/\/div[@class='col-md-2 col-xs-4 hidden-xs']\/img\/@src",
+      "lastUpdateDate" : [
+        "\/\/div[@class='col-md-10']\/\/p\/span[contains(text(),'更新时间：')]\/text()",
+        "substring-after(.,'：')"
+      ],
+      "desc" : [
+        "\/\/*[@id='bookIntro']\/text()",
+        "normalize-space(.)"
+      ],
+      "typeText" : "\/\/a[@class='red'][2]\/text()"
+    },
+    "params" : {
+
+    }
+  },
+  "bookWorld" : {
+    "排行榜" : {
+      "nextPageParams" : {
+
+      },
+      "parser" : {
+        "_1" : {
+          "dirURL" : ".\/td[1]\/a\/@href"
+        },
+        "author" : ".\/td[@class='text-muted']\/text()",
+        "bookName" : ".\/td[1]\/a\/text()",
+        "_list" : "\/\/div[@class='panel panel-default']\/table\/\/tr",
+        "lastUpdateDate" : ".\/td[5]\/text()",
+        "statusText" : ".\/td[6]\/text()"
+      },
+      "forGetMethod" : true,
+      "params" : {
+
+      },
+      "urls" : [
+        {
+          "sex" : 2,
+          "name" : "总排行榜",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/allvisit\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "总推荐榜",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/allvote\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "月排行榜",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/monthvisit\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "月推荐榜",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/monthvote\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "周排行榜",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/weekvisit\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "周推荐榜",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/weekvote\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "最新入库",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/postdate\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "最近更新",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/lastupdate\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "总收藏榜",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/goodnum\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "字数排行",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/size\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "本站推荐",
+          "url" : "https:\/\/www.zhuishu5.com\/top\/toptime\/"
+        }
+      ],
+      "maxPageCount" : "0",
+      "nextPageForGetMedthod" : true,
+      "nextPageUrl" : "\/\/div[@id='pagelink']\/\/a[@class='next']\/@href"
+    }
+  },
+  "httpConfigs" : {
+    "headers" : {
+
+    },
+    "customFormatValueParam" : "JxdSecuritySub.Gb2312Encoded:value",
+    "useCookies" : true
+  },
+  "chapterDetail" : {
+    "nextPageForGetMedthod" : true,
+    "maxPageCount" : 1,
+    "parser" : {
+      "content" : "\/\/div[@id='htmlContent']\/text()"
+    },
+    "forGetMethod" : true,
+    "params" : {
+
+    },
+    "nextPageParams" : {
+
+    }
+  },
+  "weight" : 9,
+  "priorityEncoding" : 4,
+  "needSupportDynTask" : true,
+  "sourceDetail" : {
+    "forGetMethod" : true,
+    "parser" : {
+      "_1" : {
+        "_list" : "\/\/div[@id='list-chapterAll']\/dl\/\/dd",
+        "url" : "concat('https:\/\/www.zhuishu5.com',.\/a\/@href)",
+        "title" : ".\/a\/text()"
+      }
+    },
+    "params" : {
+
+    }
+  },
+  "lastModifyTime" : "2019-01-15 15:57:55",
+  "responseType" : 0,
+  "searchBook" : {
+    "nextPageParams" : {
+
+    },
+    "parser" : {
+      "author" : ".\/div[@class='col-md-10']\/p[1]\/a\/text()",
+      "_1" : {
+        "dirURL" : ".\/div[@class='col-md-10']\/h1\/a\/@href"
+      },
+      "wordCount" : [
+        ".\/div[@class='col-md-10']\/\/p\/span[contains(text(),'字数：')]\/text()[1]",
+        "substring-after(.,'：')"
+      ],
+      "_list" : "\/\/div[@class='panel-body']\/div",
+      "bookName" : ".\/div[@class='col-md-10']\/h1\/a\/text()",
+      "statusText" : ".\/div[@class='col-md-10']\/p\/span[2]\/text()",
+      "coverUrl" : ".\/div[@class='col-md-2 col-xs-4 hidden-xs']\/img\/@src",
+      "lastUpdateDate" : [
+        ".\/div[@class='col-md-10']\/\/p\/span[contains(text(),'更新时间：')]\/text()",
+        "substring-after(.,'：')"
+      ],
+      "desc" : [
+        ".\/\/*[@id='bookIntro']\/text()",
+        "normalize-space(.)"
+      ]
+    },
+    "forGetMethod" : true,
+    "params" : {
+      "searchkey" : "%@"
+    },
+    "nextPageForGetMedthod" : true,
+    "maxPageCount" : "0",
+    "nextPageUrl" : "concat('https:\/\/www.zhuishu5.com',\/\/div[@id='pagelink']\/\/a[@class='next']\/@href)",
+    "url" : "https:\/\/www.zhuishu5.com\/modules\/article\/search.php"
+  },
+  "name" : "追书网"
+}
