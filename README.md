@@ -9,6 +9,8 @@
 
 你需要先安装爱阅书香（6.2.0版以及以上，目前内测中），[下载地址](https://itunes.apple.com/cn/app/e7-88-b1-e9-98-85-e4-b9-a6-e9-a6-99/id1137819437?mt=8)
 
+**6.1.0旧版的书友们**请复制https://gitee.com/ift123/test/raw/master/bscdef.json 这个导入到书源配置上
+
 然后用iOS设备打开此[书源配置的主页](https://shaguaphm.github.io/aiyuebookConfigs/).
 也可以直接复制 https://shaguaphm.github.io/aiyuebookConfigs/ 
 
