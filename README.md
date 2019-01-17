@@ -1,4 +1,4 @@
-# bookConfigs 更新于19.1.15
+# bookConfigs 更新于2019.01.17
 目前书源属于个人兴趣制作，难免会有失效，错误，请及时加群反馈给 **wxdjs**管理员
 
 感谢提供模板的[jxd524](https://github.com/jxd524/bookConfigs). 
@@ -17,11 +17,15 @@
 
 **PS:6.1.0旧版的书友们**,请复制https://gitee.com/ift123/test/raw/master/bscdef.json 这个导入到书源配置上
 
-[更新时间](ifreetime://configs/2019.01.15)
+[更新时间](ifreetime://configs/2019.01.17)
 
 [默认书源](ifreetime://configs/https://gitee.com/ift123/test/raw/master/bscdef.json)
 
 [思路客](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%80%9D%E8%B7%AF%E5%AE%A2-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
+
+[斋书苑](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%96%8B%E4%B9%A6%E8%8B%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt.txt)
+
+[热门小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E7%83%AD%E9%97%A8%E5%B0%8F%E8%AF%B4%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
 [2K小说阅读网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/2K%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
