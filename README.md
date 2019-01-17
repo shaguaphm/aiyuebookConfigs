@@ -19,7 +19,7 @@
 
 [更新时间](ifreetime://configs/2019.01.17)
 
-[默认书源](ifreetime://configs/https://gitee.com/ift123/test/raw/master/bscdef.json)
+[多书源合集](ifreetime://configs/https://gitee.com/ift123/test/raw/master/bscdef.json)
 
 [思路客](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%80%9D%E8%B7%AF%E5%AE%A2-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
