@@ -21,11 +21,13 @@
 
 [多书源合集](ifreetime://configs/https://gitee.com/ift123/test/raw/master/bscdef.json)
 
+[顶点小说](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E9%A1%B6%E7%82%B9%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
+
 [思路客](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%80%9D%E8%B7%AF%E5%AE%A2-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
 [斋书苑](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%96%8B%E4%B9%A6%E8%8B%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt.txt)
 
-[热门小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E7%83%AD%E9%97%A8%E5%B0%8F%E8%AF%B4%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
+[新热门小说](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%96%B0%E7%83%AD%E9%97%A8%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
 [2K小说阅读网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/2K%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E7%BD%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
