@@ -1,7 +1,7 @@
 # bookConfigs 更新于2019.01.18
 目前书源属于个人兴趣制作，难免会有失效，错误，请及时加群反馈给 **wxdjs**管理员
 
-感谢提供模板的[jxd524](https://github.com/jxd524/bookConfigs). 
+感谢提供模板的[jxd524](https://jxd524.github.io/bookConfigs). 
 感谢提供书源的管理员[wxdjs](https://wxdjs.github.io/iFreeTimebookConfigs/?tdsourcetag=s_pcqq_aiomsg)
 
 感谢书源提供者 **wxdjs管理大大** 和 superman管理
