@@ -1,4 +1,4 @@
-# bookConfigs 更新于2019.01.18
+# bookConfigs 更新于2019.01.19
 目前书源属于个人兴趣制作，难免会有失效，错误，请及时加群反馈给 **wxdjs**管理员
 
 感谢提供模板的[jxd524](https://jxd524.github.io/bookConfigs). 
@@ -19,9 +19,11 @@
 **PS:6.1.0旧版的书友们**,请复制https://raw.githubusercontent.com/shaguaphm/BookConfigs/master/BookConfigs.txt
  这个导入到书源配置上
 
-[更新时间](ifreetime://configs/2019.01.18)
+[更新时间](ifreetime://configs/2019.01.19)
 
 [多书源合集](ifreetime://configs/https://gitee.com/ift123/test/raw/master/bscdef.json)
+
+[追书神器](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E8%BF%BD%E4%B9%A6%E7%A5%9E%E5%99%A8.json)
 
 [顶点小说](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E9%A1%B6%E7%82%B9%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
