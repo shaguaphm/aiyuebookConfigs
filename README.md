@@ -21,8 +21,6 @@
 
 [更新时间](ifreetime://configs/2019.01.19)
 
-[追书神器](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E8%BF%BD%E4%B9%A6%E7%A5%9E%E5%99%A8.json)
-
 [顶点小说](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E9%A1%B6%E7%82%B9%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
 [思路客](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%80%9D%E8%B7%AF%E5%AE%A2-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
