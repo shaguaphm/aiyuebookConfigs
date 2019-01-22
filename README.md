@@ -1,4 +1,4 @@
-# bookConfigs 更新于2019.01.19
+# bookConfigs 更新于2019.01.22
 目前书源属于个人兴趣制作，难免会有失效，错误，请及时加群反馈给 **wxdjs**管理员
 
 感谢提供模板的[jxd524](https://jxd524.github.io/bookConfigs). 
@@ -19,7 +19,7 @@
 **PS:6.1.0旧版的书友们**,请复制https://raw.githubusercontent.com/shaguaphm/BookConfigs/master/BookConfigs.txt
  这个导入到书源配置上
 
-[更新时间](ifreetime://configs/2019.01.19)
+[更新时间](ifreetime://configs/2019.01.22)
 
 [33小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/33%E5%B0%8F%E8%AF%B4%E7%BD%91.txt)
 
