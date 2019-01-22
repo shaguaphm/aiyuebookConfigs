@@ -21,6 +21,24 @@
 
 [更新时间](ifreetime://configs/2019.01.19)
 
+[33小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/33%E5%B0%8F%E8%AF%B4%E7%BD%91.txt)
+
+[88读书网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/88%E8%AF%BB%E4%B9%A6.json)
+
+[全本书屋](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E5%85%A8%E6%9C%AC%E4%B9%A6%E5%B1%8B.json)
+
+[卡夜阁](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E5%8D%A1%E5%A4%9C%E9%98%81-%E7%88%B1%E9%98%85%E4%B9%A6%E6%BA%90.json)
+
+[笔趣宝](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E7%AC%94%E8%B6%A3%E5%AE%9D.json)
+
+[网易阅读（正版）](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E7%BD%91%E6%98%93%E9%98%85%E8%AF%BB.json)
+
+[读书369](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E8%AF%BB%E4%B9%A6369.json)
+
+[起点中文（正版）](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E8%B5%B7%E7%82%B9%E4%B8%AD%E6%96%87.json)
+
+[追书神器](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E8%BF%BD%E4%B9%A6%E7%A5%9E%E5%99%A8.json)
+
 [顶点小说](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E9%A1%B6%E7%82%B9%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
 [思路客](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%80%9D%E8%B7%AF%E5%AE%A2-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
