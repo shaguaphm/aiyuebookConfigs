@@ -1,0 +1,216 @@
+{
+  "homeUrl" : "https:\/\/www.x88dushu.com\/",
+  "enable" : true,
+  "authorId" : "6d2370e2088b9556423c257fd3f8c5dd",
+  "bookDetail" : {
+    "forGetMethod" : true,
+    "parser" : {
+      "coverUrl" : ".\/\/div[@class=\"lf\"]\/img\/@src",
+      "desc" : "\/\/div[@class=\"intro\"]\/\/text()",
+      "lastUpdateDate" : [
+        "\/\/em[contains(text(), \"更新时间：\")]",
+        "substring-after(.,\"：\")"
+      ]
+    },
+    "params" : {
+
+    }
+  },
+  "bookWorld" : {
+    "排行榜" : {
+      "nextPageParams" : {
+
+      },
+      "parser" : {
+        "author" : ".\/\/span[@class='zz']\/text()",
+        "_1" : {
+          "dirURL" : ".\/\/span[@class='sm']\/\/a\/@href"
+        },
+        "wordCount" : ".\/\/span[@class='zs']",
+        "_list" : "\/\/div[@class='booklist']\/\/li",
+        "bookName" : ".\/\/b\/text()",
+        "statusText" : ".\/\/span[@class='zt']",
+        "lastUpdateDate" : ".\/\/span[@class='sj']"
+      },
+      "forGetMethod" : true,
+      "params" : {
+
+      },
+      "nextPageForGetMedthod" : true,
+      "maxPageCount" : "-1",
+      "urls" : [
+        {
+          "sex" : 2,
+          "name" : "收藏",
+          "url" : "https:\/\/www.x88dushu.com\/topgoodnum\/1\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "新书",
+          "url" : "https:\/\/www.x88dushu.com\/toppostdate\/1\/"
+        },
+        {
+          "sex" : 2,
+          "url" : "https:\/\/www.x88dushu.com\/top\/fullflag\/",
+          "name" : "完本"
+        }
+      ],
+      "nextPageUrl" : "\/\/div[@class='pagelink']\/a[@class='next']\/@href"
+    },
+    "书籍分类" : {
+      "nextPageParams" : {
+
+      },
+      "parser" : {
+        "author" : ".\/\/span[@class='zz']\/text()",
+        "wordCount" : ".\/\/span[@class='zs']",
+        "_1" : {
+          "dirURL" : ".\/\/span[@class='sm']\/\/a\/@href"
+        },
+        "_list" : "\/\/div[@class='booklist']\/\/li",
+        "bookName" : ".\/\/b\/text()",
+        "statusText" : ".\/\/span[@class='zt']",
+        "lastUpdateDate" : ".\/\/span[@class='sj']"
+      },
+      "forGetMethod" : true,
+      "params" : {
+
+      },
+      "urls" : [
+        {
+          "sex" : 2,
+          "name" : "玄幻魔法",
+          "url" : "https:\/\/www.x88dushu.com\/sort1\/1\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "武侠修真",
+          "url" : "https:\/\/www.x88dushu.com\/sort2\/1\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "都市言情",
+          "url" : "https:\/\/www.x88dushu.com\/sort3\/1\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "历史穿越",
+          "url" : "https:\/\/www.x88dushu.com\/sort4\/1\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "恐怖悬疑",
+          "url" : "https:\/\/www.x88dushu.com\/sort5\/1\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "游戏竞技",
+          "url" : "https:\/\/www.x88dushu.com\/sort6\/1\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "军事科幻",
+          "url" : "https:\/\/www.x88dushu.com\/sort7\/1\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "女生频道",
+          "url" : "https:\/\/www.x88dushu.com\/sort9\/1\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "综合类型",
+          "url" : "https:\/\/www.x88dushu.com\/sort8\/1\/"
+        }
+      ],
+      "maxPageCount" : "-1",
+      "nextPageForGetMedthod" : true,
+      "nextPageUrl" : "\/\/div[@class='pagelink']\/a[@class='next']\/@href"
+    }
+  },
+  "httpConfigs" : {
+    "headers" : {
+      "cookie" : "Hm_lvt_1ffb999492e4555cde9ae698c8450023=1540293805,1540525663; Hm_lpvt_1ffb999492e4555cde9ae698c8450023=1540525792"
+    },
+    "useCookies" : true
+  },
+  "chapterDetail" : {
+    "forGetMethod" : true,
+    "parser" : {
+      "content" : "\/\/div[@class=\"yd_text2\"]"
+    },
+    "params" : {
+
+    }
+  },
+  "weight" : 11,
+  "priorityEncoding" : 4,
+  "needSupportDynTask" : true,
+  "sourceDetail" : {
+    "maxPageCount" : 1,
+    "forGetMethod" : true,
+    "parser" : {
+      "_1" : {
+        "_list" : "\/\/div[@class=\"mulu\"]\/\/a",
+        "title" : ".\/text()",
+        "url" : ".\/@href"
+      },
+      "lastUpdateDate" : [
+        "\/\/em[contains(text(), \"更新时间：\")]",
+        "substring-after(.,\"：\")"
+      ]
+    },
+    "params" : {
+
+    },
+    "nextPageForGetMedthod" : true,
+    "nextPageParams" : {
+
+    }
+  },
+  "lastModifyTime" : "2019-01-19 16:42:32",
+  "searchSource" : {
+    "forGetMethod" : true,
+    "parser" : {
+      "_list" : "",
+      "dirURL" : "",
+      "webName" : ""
+    },
+    "params" : {
+
+    }
+  },
+  "responseType" : 0,
+  "searchBook" : {
+    "parser" : {
+      "author" : [
+        ".\/\/p[2]\/text()",
+        "substring-after(., \"：\")"
+      ],
+      "_1" : {
+        "dirURL" : ".\/\/div\/a\/@href"
+      },
+      "_list" : "\/\/div[contains(@class, \"ops_cover\")]\/div",
+      "bookName" : ".\/\/h2\/text()",
+      "coverUrl" : ".\/\/img\/@src",
+      "typeText" : [
+        ".\/\/p[3]\/text()",
+        "substring-after(., \"：\")"
+      ],
+      "desc" : ".\/\/p[4]"
+    },
+    "params" : {
+
+    },
+    "forGetMethod" : true,
+    "nextPageForGetMedthod" : true,
+    "nextPageParams" : {
+
+    },
+    "maxPageCount" : "2",
+    "url" : "https:\/\/so.x88dushu.com\/search\/so.php?search_field=0&q=%@",
+    "refererUrl" : "",
+    "nextPageUrl" : "\/\/div\/\/label[contains(text(), '下一页')]\/parent::*\/@href"
+  },
+  "name" : "88读书"
+}

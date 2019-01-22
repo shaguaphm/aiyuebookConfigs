@@ -1,0 +1,131 @@
+{
+  "homeUrl" : "http:\/\/www.qbwu.net\/",
+  "enable" : true,
+  "authorId" : "6d2370e2088b9556423c257fd3f8c5dd",
+  "bookWorld" : {
+    "书籍分类" : {
+      "nextPageParams" : {
+
+      },
+      "parser" : {
+        "_1" : {
+          "dirURL" : ".\/\/a[@class=\"bookname\"]\/@href"
+        },
+        "author" : [
+          ".\/\/p[contains(text(), \"作者：\")]",
+          "substring-after(text(), \"：\")"
+        ],
+        "bookName" : ".\/\/a[@class=\"bookname\"]\/\/text()",
+        "_list" : "\/\/div[contains(@class,\"storelistbt5\")]",
+        "coverUrl" : ".\/\/img\/@src",
+        "desc" : ".\/\/p[2]\/text()"
+      },
+      "forGetMethod" : true,
+      "params" : {
+
+      },
+      "urls" : [
+        {
+          "sex" : 2,
+          "name" : "玄幻",
+          "url" : "http:\/\/www.qbwu.net\/category\/2_1_1.aspx"
+        },
+        {
+          "sex" : 2,
+          "name" : "修真",
+          "url" : "http:\/\/www.qbwu.net\/category\/3_1_1.aspx"
+        },
+        {
+          "sex" : 2,
+          "name" : "言情",
+          "url" : "http:\/\/www.qbwu.net\/category\/5_1_1.aspx"
+        },
+        {
+          "sex" : 2,
+          "name" : "历史军事",
+          "url" : "http:\/\/www.qbwu.net\/category\/6_1_1.aspx"
+        },
+        {
+          "sex" : 2,
+          "name" : "网游竞技",
+          "url" : "http:\/\/www.qbwu.net\/category\/7_1_1.aspx"
+        },
+        {
+          "sex" : 2,
+          "name" : "科幻",
+          "url" : "http:\/\/www.qbwu.net\/category\/8_1_1.aspxt"
+        },
+        {
+          "sex" : 2,
+          "name" : "恐怖小说",
+          "url" : "http:\/\/www.qbwu.net\/category\/9_1_1.aspx"
+        }
+      ],
+      "maxPageCount" : "-1",
+      "nextPageForGetMedthod" : true,
+      "nextPageUrl" : "\/\/div[@id=\"storelistbottom\"]\/\/a[contains(text(), \"下页\")]\/@href"
+    }
+  },
+  "httpConfigs" : {
+    "headers" : {
+
+    },
+    "useCookies" : true
+  },
+  "chapterDetail" : {
+    "forGetMethod" : true,
+    "parser" : {
+      "content" : [
+        "\/\/div[@id=\"content\"]\/\/p",
+        "@regex:<p>.*第.*?<\/p> @[0]=>"
+      ]
+    },
+    "params" : {
+
+    }
+  },
+  "weight" : 9,
+  "priorityEncoding" : 4,
+  "needSupportDynTask" : true,
+  "sourceDetail" : {
+    "forGetMethod" : true,
+    "parser" : {
+      "_1" : {
+        "_list" : "\/\/div[@id=\"readlist\"]\/\/a",
+        "title" : "text()",
+        "url" : "@href"
+      }
+    },
+    "params" : {
+
+    }
+  },
+  "lastModifyTime" : "2019-01-19 19:13:57",
+  "responseType" : 0,
+  "searchBook" : {
+    "nextPageParams" : {
+
+    },
+    "parser" : {
+      "_1" : {
+        "dirURL" : ".\/\/a[@class=\"bookname\"]\/@href"
+      },
+      "bookName" : ".\/\/a[@class=\"bookname\"]\/\/text()",
+      "author" : [
+        ".\/\/p[contains(text(), \"作者：\")]",
+        "substring-after(text(), \"：\")"
+      ],
+      "_list" : "\/\/div[contains(@class,\"storelistbt5\")]",
+      "coverUrl" : ".\/\/img\/@src",
+      "desc" : ".\/\/p[2]\/text()"
+    },
+    "forGetMethod" : true,
+    "params" : {
+
+    },
+    "nextPageForGetMedthod" : true,
+    "maxPageCount" : "1",
+    "url" : "http:\/\/www.qbwu.net\/so\/default.aspx?type=1&key=%@"
+  },
+  "name" : "全本书屋"
+}

@@ -1,0 +1,149 @@
+{
+  "homeUrl" : "http:\/\/www.dushu369.com\/",
+  "enable" : true,
+  "authorId" : "6d2370e2088b9556423c257fd3f8c5dd",
+  "bookDetail" : {
+    "forGetMethod" : true,
+    "parser" : {
+      "coverUrl" : "",
+      "desc" : "\/\/td[@class=\"Readme\"]"
+    },
+    "params" : {
+
+    }
+  },
+  "bookWorld" : {
+    "作品集" : {
+      "forGetMethod" : true,
+      "parser" : {
+        "_1" : {
+          "dirURL" : "@href"
+        },
+        "author" : [
+          "text()",
+          "@regex:(?<=》).*?(?=$)",
+          "@dyn:c=content.jxd_trim;check(!c, return 佚名); return c;"
+        ],
+        "bookName" : [
+          "text()",
+          "@regex:(?<=《).+?(?=》)"
+        ],
+        "_list" : "\/\/table[@class=\"tablebg-2\"]\/\/a"
+      },
+      "params" : {
+
+      },
+      "urls" : [
+        {
+          "sex" : 2,
+          "url" : "http:\/\/www.dushu369.com\/zhongguomingzhu\/",
+          "name" : "国内名著"
+        },
+        {
+          "sex" : 2,
+          "name" : "国外名著",
+          "url" : "http:\/\/www.dushu369.com\/waiguomingzhu\/"
+        },
+        {
+          "sex" : 2,
+          "url" : "http:\/\/www.dushu369.com\/gudianmingzhu\/",
+          "name" : "古典"
+        },
+        {
+          "sex" : 2,
+          "url" : "http:\/\/www.dushu369.com\/tonghua\/",
+          "name" : "儿童文学"
+        },
+        {
+          "sex" : 2,
+          "name" : "经典故事",
+          "url" : "http:\/\/www.dushu369.com\/gushi\/"
+        },
+        {
+          "sex" : 2,
+          "url" : "http:\/\/www.dushu369.com\/jiaoyu\/",
+          "name" : "教育励志"
+        },
+        {
+          "sex" : 2,
+          "url" : "http:\/\/www.dushu369.com\/shici\/",
+          "name" : "诗词散文"
+        },
+        {
+          "sex" : 2,
+          "name" : "名人传记",
+          "url" : "http:\/\/www.dushu369.com\/mingrenzhuanji\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "武侠小说",
+          "url" : "http:\/\/www.dushu369.com\/wuxiaxiaoshuo\/"
+        },
+        {
+          "sex" : 2,
+          "name" : "其它阅读",
+          "url" : "http:\/\/www.dushu369.com\/qtyd\/"
+        }
+      ]
+    }
+  },
+  "httpConfigs" : {
+    "headers" : {
+
+    },
+    "customFormatValueParam" : "JxdSecuritySub.Gb2312Encoded:value",
+    "useCookies" : true
+  },
+  "chapterDetail" : {
+    "forGetMethod" : true,
+    "parser" : {
+      "content" : "\/\/td[@class=\"content\"]"
+    },
+    "params" : {
+
+    }
+  },
+  "weight" : 1,
+  "priorityEncoding" : 4,
+  "needSupportDynTask" : true,
+  "sourceDetail" : {
+    "forGetMethod" : true,
+    "parser" : {
+      "_1" : {
+        "_list" : "\/\/td[@class=\"content\"]\/\/a",
+        "title" : "text()",
+        "url" : "@href"
+      }
+    },
+    "params" : {
+
+    }
+  },
+  "lastModifyTime" : "2019-01-19 22:39:33",
+  "responseType" : 0,
+  "searchBook" : {
+    "forGetMethod" : false,
+    "parser" : {
+      "_1" : {
+        "dirURL" : "@href"
+      },
+      "author" : [
+        "text()",
+        "@regex:(?<=》).*?(?=$)",
+        "@dyn:c=content.jxd_trim;check(!c, return 佚名); return c;"
+      ],
+      "bookName" : [
+        "text()",
+        "@regex:(?<=《).+?(?=》)"
+      ],
+      "_list" : "\/\/td[@class=\"listdlmid\"]\/\/a"
+    },
+    "params" : {
+      "Field" : "Title",
+      "select" : "Article",
+      "Keyword" : "%@"
+    },
+    "url" : "http:\/\/www.dushu369.com\/book\/search.asp"
+  },
+  "name" : " 读书369"
+}
