@@ -21,6 +21,8 @@
 
 [更新时间](ifreetime://configs/2019.01.22)
 
+[快读一](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E5%BF%AB%E8%AF%BB%E4%B8%80.json)
+
 [书屋小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E4%B9%A6%E5%B1%8B%E5%B0%8F%E8%AF%B4%E7%BD%91.json)
 
 [33小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/33%E5%B0%8F%E8%AF%B4%E7%BD%91.txt)
