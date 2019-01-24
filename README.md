@@ -1,4 +1,4 @@
-# bookConfigs 更新于2019.01.22
+# bookConfigs 更新于2019.01.24
 目前书源属于个人兴趣制作，难免会有失效，错误，请及时加群反馈给 **wxdjs**管理员
 
 感谢提供模板的[jxd524](https://jxd524.github.io/bookConfigs). 
@@ -19,7 +19,9 @@
 **PS:6.1.0旧版的书友们**,请复制https://raw.githubusercontent.com/shaguaphm/BookConfigs/master/BookConfigs.json
  这个导入到书源配置上
 
-[更新时间](ifreetime://configs/2019.01.22)
+[更新时间](ifreetime://configs/2019.01.24)
+
+[伤城中文网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E4%BC%A4%E5%9F%8E%E4%B8%AD%E6%96%87%E7%BD%91.json)
 
 [快读一](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E5%BF%AB%E8%AF%BB%E4%B8%80.json)
 
