@@ -8,7 +8,7 @@
 
 **爱阅书香之论道 839577211**
 
-你需要先安装爱阅书香（6.2.0版以及以上，目前内测中），[下载地址](https://itunes.apple.com/cn/app/e7-88-b1-e9-98-85-e4-b9-a6-e9-a6-99/id1137819437?mt=8)
+你需要先安装爱阅书香（6.2.0版以及以上），[下载地址](https://itunes.apple.com/cn/app/e7-88-b1-e9-98-85-e4-b9-a6-e9-a6-99/id1137819437?mt=8)
 
 然后用iOS设备打开此[书源配置的主页](https://shaguaphm.github.io/aiyuebookConfigs/).
 也可以直接复制 https://shaguaphm.github.io/aiyuebookConfigs/ 
