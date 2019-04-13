@@ -27,7 +27,7 @@
 
 [爱下电子书](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E7%88%B1%E4%B8%8B%E7%94%B5%E5%AD%90%E4%B9%A6.json)
 
-[玫瑰小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E7%88%B1%E4%B8%8B%E7%94%B5%E5%AD%90%E4%B9%A6.json)
+[玫瑰小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E7%8E%AB%E7%91%B0%E5%B0%8F%E8%AF%B4%E7%BD%91.json)
 
 [伤城中文网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E4%BC%A4%E5%9F%8E%E4%B8%AD%E6%96%87%E7%BD%91.json)
 
