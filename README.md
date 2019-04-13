@@ -1,4 +1,4 @@
-# 爱阅书香书源集合（ios平台） 更新于2019.01.24
+# 爱阅书香书源集合（ios平台） 更新于2019.04.13
 目前书源属于个人兴趣制作，难免会有失效，错误，请及时加群反馈给 **wxdjs**管理员
 
 感谢提供模板的[jxd524](https://jxd524.github.io/bookConfigs). 
@@ -20,6 +20,14 @@
  这个导入到书源配置上
 
 [更新时间](ifreetime://configs/2019.01.24)
+
+[18小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/18%E5%B0%8F%E8%AF%B4%E7%BD%91.json)
+
+[松语文学](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%9D%BE%E8%AF%AD%E6%96%87%E5%AD%A6.json)
+
+[爱下电子书](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E7%88%B1%E4%B8%8B%E7%94%B5%E5%AD%90%E4%B9%A6.json)
+
+[玫瑰小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E7%88%B1%E4%B8%8B%E7%94%B5%E5%AD%90%E4%B9%A6.json)
 
 [伤城中文网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E4%BC%A4%E5%9F%8E%E4%B8%AD%E6%96%87%E7%BD%91.json)
 
