@@ -19,7 +19,7 @@
 **PS:6.1.0旧版的书友们**,请复制https://raw.githubusercontent.com/shaguaphm/BookConfigs/master/BookConfigs.json
  这个导入到书源配置上
 
-[更新时间](ifreetime://configs/2019.01.24)
+[更新时间](ifreetime://configs/2019.04.13)
 
 [18小说网](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/18%E5%B0%8F%E8%AF%B4%E7%BD%91.json)
 
