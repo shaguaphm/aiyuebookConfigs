@@ -57,7 +57,7 @@
 
 [思路客](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%80%9D%E8%B7%AF%E5%AE%A2-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
-[斋书苑](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%96%8B%E4%B9%A6%E8%8B%91-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
+[斋书苑](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%96%8B%E4%B9%A6%E8%8B%91.json)
 
 [新热门小说](ifreetime://configs/https://raw.githubusercontent.com/shaguaphm/aiyuebookConfigs/master/%E6%96%B0%E7%83%AD%E9%97%A8%E5%B0%8F%E8%AF%B4-%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99.txt)
 
